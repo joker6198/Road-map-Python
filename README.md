@@ -3,6 +3,7 @@
 
 ## Основные понятия:
 - [Big O нотации (Основное)](https://habr.com/ru/articles/444594/)
+- [Big O нотации (Глубокое погружение)](https://discrete.gr/complexity/?ru)
 
 ## Полезные инструменты:
 - [Пошаговый визуализатор кода](https://pythontutor.com/visualize.html#mode=edit)

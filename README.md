@@ -5,4 +5,4 @@
 - [Big O нотации (Основное)](https://habr.com/ru/articles/444594/)
 
 ## Полезные инструменты:
-- [Пошаговый визуализатор кода]([https://habr.com/ru/articles/444594/](https://pythontutor.com/visualize.html#mode=edit))
+- [Пошаговый визуализатор кода](https://pythontutor.com/visualize.html#mode=edit)

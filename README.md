@@ -11,6 +11,7 @@
 - [Строки и методы работы с ними](https://timeweb.com/ru/community/articles/stroki-v-python)
 - [Целые и вещественные числа](https://silvertests.ru/GuideView.aspx?id=32162)
 - [Массивы (Списки)](https://silvertests.ru/GuideView.aspx?id=32174)
+- [Двумерные массивы](https://ejudge.179.ru/tasks/python/2014b1/16-lists3.html)
 
 ## Полезные инструменты:
 - [Пошаговый визуализатор кода](https://pythontutor.com/visualize.html#mode=edit)

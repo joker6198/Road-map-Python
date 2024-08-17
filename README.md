@@ -15,3 +15,5 @@
 
 ### Списки (массивы)
 - [Поиск дубликатов](https://it-start.online/articles/nahodim-povtorjajushhiesja-jelementy-v-spiske-python)
+### Строки
+- [Разделение строки на эллементы](https://skillbox.ru/media/code/kak-v-python-razbit-stroku-na-simvoly/)

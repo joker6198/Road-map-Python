@@ -21,6 +21,7 @@
 
 ### Массивы (Списки)
 - [Поиск дубликатов](https://it-start.online/articles/nahodim-povtorjajushhiesja-jelementy-v-spiske-python)
+- [Расчет количества повторений эллементов](https://skillbox.ru/media/code/pythonbiblioteka-collections/)
 ### Строки
 - [Разделение строки на эллементы](https://skillbox.ru/media/code/kak-v-python-razbit-stroku-na-simvoly/)
 - [Преобразование первых букв в заглавные](https://sky.pro/media/preobrazovanie-pervoj-bukvy-kazhdogo-slova-v-stroke-v-zaglavnuyu/)

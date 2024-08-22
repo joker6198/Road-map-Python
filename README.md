@@ -27,3 +27,4 @@
 - [Разделение строки на эллементы](https://skillbox.ru/media/code/kak-v-python-razbit-stroku-na-simvoly/)
 - [Преобразование первых букв в заглавные](https://sky.pro/media/preobrazovanie-pervoj-bukvy-kazhdogo-slova-v-stroke-v-zaglavnuyu/)
 - [Определение типа символов строки](https://proghunter.ru/articles/working-with-character-types-in-python-isdigit-isalpha-isalnum-and-isspace-methods)
+- [Выравнивание символов относительно строки (Центрирование)](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/)

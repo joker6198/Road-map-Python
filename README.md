@@ -23,8 +23,10 @@
 - [Поиск дубликатов](https://it-start.online/articles/nahodim-povtorjajushhiesja-jelementy-v-spiske-python)
 - [Расчет количества повторений эллементов](https://skillbox.ru/media/code/pythonbiblioteka-collections/)
 - [Удаление эллементов из массива](https://skillbox.ru/media/code/kak-udalit-element-iz-spiska-v-python/)
+- [Алгоритм двух указателей](https://javarush.com/quests/lectures/ru.javarush.python.core.lecture.level19.lecture01)
 ### Строки
 - [Разделение строки на эллементы](https://skillbox.ru/media/code/kak-v-python-razbit-stroku-na-simvoly/)
 - [Преобразование первых букв в заглавные](https://sky.pro/media/preobrazovanie-pervoj-bukvy-kazhdogo-slova-v-stroke-v-zaglavnuyu/)
 - [Определение типа символов строки](https://proghunter.ru/articles/working-with-character-types-in-python-isdigit-isalpha-isalnum-and-isspace-methods)
 - [Выравнивание символов относительно строки (Центрирование)](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/)
+- [Алгоритм поиска подстроки или Алгоритм Кнута–Морриса-Пратта(КМП)](https://habr.com/ru/articles/191454/)

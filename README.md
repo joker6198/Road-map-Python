@@ -29,4 +29,4 @@
 - [Преобразование первых букв в заглавные](https://sky.pro/media/preobrazovanie-pervoj-bukvy-kazhdogo-slova-v-stroke-v-zaglavnuyu/)
 - [Определение типа символов строки](https://proghunter.ru/articles/working-with-character-types-in-python-isdigit-isalpha-isalnum-and-isspace-methods)
 - [Выравнивание символов относительно строки (Центрирование)](https://www.geeksforgeeks.org/python-string-ljust-rjust-center/)
-- [Алгоритм поиска подстроки или Алгоритм Кнута–Морриса-Пратта(КМП)](https://gist.github.com/tebesoft/4e20155b1d247fafee0a2a650352d6d6)
+- [Алгоритм поиска подстроки или Алгоритм Кнута–Морриса-Пратта(КМП)](https://gist.github.com/tebesoft/4e20155b1d247fafee0a2a650352d6d6), [Более наглядный вариант](https://www.youtube.com/watch?v=S2I0covkyMc)
